@@ -1,24 +1,20 @@
 ---
 layout: about
-title: about
+title: Bio
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: PhD in Sports Analytics & Computer Vision. Barcelona.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: novaFotoPerfil.jpg
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Born and raised in the mid 90s in the tropical and free region of Maresme, doing technological-basketball research since 2010. Currently finishing my PhD in the IPCV research group at Universitat Pompeu Fabra, under the supervision of Gloria Haro and Coloma Ballester. Before becoming such a book-worm, I obtained a bachelor degree in Audiovisual Systems Engineering at Universitat Pompeu Fabra (2011), and a master degree in Vision, Graphics and Interactive Systems at Aalborg Universitet (2017, Aalborg, Denmark, cold Denmark).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Passionately curious about a broad spectrum of research topics, but currently focused on Deep Learning for Visual Recognition, doing my best to solve challenging occlusions and cluttering scenarios in the sport domain and aiming to provide meaningful insights to coaches that could boost the performance of their teams. Besides, I also coached at F.C. Barcelona, where I try to gather new ideas and test my experiments in an office-court duality.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you want to learn why am I so obsessed with data and basketball, take a look at this [TedxUPF talk](https://youtu.be/gW0Yb779Oq4){:target="\_blank"}.

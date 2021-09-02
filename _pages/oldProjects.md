@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: visual CV
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
-display_categories: [work, fun]
+display_categories: [academia (PhD research), basketball, scientific dissemination, engineering]
 horizontal: false
 ---
 <div class="projects">
