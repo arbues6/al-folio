@@ -18,3 +18,5 @@ Born and raised in the mid 90s in the tropical and free region of Maresme, doing
 Passionately curious about a broad spectrum of research topics, but currently focused on Deep Learning for Visual Recognition, doing my best to solve challenging occlusions and cluttering scenarios in the sport domain and aiming to provide meaningful insights to coaches that could boost the performance of their teams. Besides, I also coached at F.C. Barcelona, where I try to gather new ideas and test my experiments in an office-court duality.
 
 If you want to learn why am I so obsessed with data and basketball, take a look at this [TedxUPF talk](https://youtu.be/gW0Yb779Oq4){:target="\_blank"}.
+
+Thesis link.
